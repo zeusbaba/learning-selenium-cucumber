@@ -1,0 +1,9 @@
+.*
+!.gitignore 
+
+*.iml 
+out/
+bin/
+build/
+LOG_PATH_UNDEFINED/
+
